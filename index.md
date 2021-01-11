@@ -1,3 +1,3 @@
-# Welcome to my blog
+# KUTAY KILIÇ BLOG PAGE
 
-I'm glad you are here. I plan to talk about ...
+KÖPEK ADAM OLDUM
