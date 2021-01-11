@@ -1,3 +1,1 @@
-# KUTAYIN SAYFASI
 
-woof
