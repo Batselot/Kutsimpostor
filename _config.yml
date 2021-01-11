@@ -2,8 +2,8 @@ title: DDG MANS ALLOWED
 author: GitHub User
 theme: minima
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-This is my page. Please come in no matter who you are or what you are. 
+description: < This is my page. Please come in no matter who you are or what you are. > # this means to ignore newlines until "baseurl:"
+
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
